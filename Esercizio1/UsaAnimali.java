@@ -1,4 +1,4 @@
-package Esercizio1.src;
+package Esercizio1;
 public class UsaAnimali {
     public static void main(String[] args) {
 

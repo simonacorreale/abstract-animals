@@ -1,4 +1,4 @@
-package Esercizio1.src;
+package Esercizio1;
 public class Cane extends Animale {
 
     @Override
