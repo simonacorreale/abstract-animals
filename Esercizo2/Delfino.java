@@ -4,15 +4,12 @@ public class Delfino implements Animale {
 
     @Override
     public void vola() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'vola'");
+        System.out.println("vola");
     }
 
     @Override
     public void nuota() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'nuota'");
+       System.out.println("nuota");
     }
- 
     
 }
