@@ -1,4 +1,5 @@
-public class Passerotto extends Animale {
+package Esercizio1.src;
+public class Passerotto implements  Animale {
 
     @Override
     public void verso() {

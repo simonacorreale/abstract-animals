@@ -1,3 +1,4 @@
+package Esercizio1.src;
 /* Esercizio 1 : classi astratte
 Dobbiamo realizzare un programma che rappresenti il regno animale.
 Creiamo quindi una classe astratta Animale e delle classi che la estendono : Cane, Passerotto, Aquila, Delfino

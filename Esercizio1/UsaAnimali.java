@@ -1,3 +1,4 @@
+package Esercizio1.src;
 public class UsaAnimali {
     public static void main(String[] args) {
 
@@ -24,5 +25,4 @@ public class UsaAnimali {
         System.out.println("---\n");
     
     }
-    
 }
